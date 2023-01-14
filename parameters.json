@@ -1,0 +1,76 @@
+{
+    "parameterSets":
+    {
+        "burgerbox_friesbox_full": {
+            "do_burger_box_full": true ,
+            "do_fries_box_full": true ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "friesbox_only": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": true ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "burgerbox_without_base": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": true ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "base_only": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": true ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "multimaterial_burgerbox_without_base": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": true ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "multimaterial_smile": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": true ,
+            "do_only_m_macdo_multimaterial": false
+        } ,
+        "multimaterial_m_macdo": {
+            "do_burger_box_full": false ,
+            "do_fries_box_full": false ,
+            "do_only_fries_box": false ,
+            "do_only_burger_box_without_base": false ,
+            "do_only_burger_box_base": false ,
+            "do_only_burger_box_without_base_multimaterial": false ,
+            "do_only_smile_multimaterial": false ,
+            "do_only_m_macdo_multimaterial": true
+        } 
+    },
+    "fileFormatVersion": "1"
+}
